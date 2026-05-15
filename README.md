@@ -5,6 +5,8 @@
 ![Pytest](https://img.shields.io/badge/Pytest-tested-green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-backend-teal)
 ![Allure](https://img.shields.io/badge/Allure-report-orange)
+
+
 [Отчет Allure](https://fkfjdkso.github.io/qa-playground/)
 
 ---
